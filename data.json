@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    " name": " Zaid Ahmed",
+    " age": " 25",
+    " email": " zaid.ahmed@example.com"
+  },
+  {
+    "id": "2",
+    " name": " John Doe",
+    " age": " 30",
+    " email": " john.doe@example.com"
+  },
+  {
+    "id": "3",
+    " name": " James Lee",
+    " age": " 32",
+    " email": " james.lee@example.com"
+  },
+  {
+    "id": "4",
+    " name": " Farah Asgar",
+    " age": " 28",
+    " email": " farah.asgar@example.com"
+  }
+]
